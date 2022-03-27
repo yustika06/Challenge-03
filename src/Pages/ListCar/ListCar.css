@@ -1,0 +1,23 @@
+#list_mobil{
+    background-color: #F4F5F7;
+    padding-left: 3rem;
+    padding-top:5rem;
+}
+#plus{
+    background-color: #0D28A6;
+    color:white;
+    margin-top: 1rem;
+    margin-left: 20rem;
+}
+.mobil{
+    display: flex;
+    flex-direction: row;
+}
+#tombol{
+    margin-bottom:1rem;
+}
+#tombol Button{
+    margin: 0.3rem;
+    background-color: white;
+    color: black;
+}

@@ -1,0 +1,23 @@
+#addtable tbody{  
+    border-style: none;
+    border-color: white;
+}
+#addtable{
+    border-radius: 2%;
+    background-color: white;
+    margin-bottom: 4rem;
+    width: 80vw;  
+}
+#addtombol{
+    background-color: #F4F5F7;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top:4rem;
+    position: fixed;
+    width: 91vw;
+    height: 100vh;
+}
+#tomb Button{
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+}

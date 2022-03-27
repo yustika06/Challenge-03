@@ -1,0 +1,36 @@
+.Navbar{
+    height:100vh;
+    width:8vw;
+    background: #0D28A6;
+    position: fixed;
+    left:0;
+}
+.nav{
+    float: left;
+    list-style-type: none;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+    top:0;
+}
+li{
+    text-align: center;
+    padding: 15px;
+}
+li a{
+    text-decoration: none;
+}
+li p{
+    color: white;
+}
+li:hover:not(.active) {  /* mengatur hover link yang bukan aktif*/
+    background-color: rgba(255, 255, 255, 0.3);
+}
+#logo{
+    width: 34px;
+    height: 34px;
+    margin-left: 2.3rem;
+    margin-top:0.8rem;
+    margin-bottom: 1.8rem;
+}
